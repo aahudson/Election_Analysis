@@ -21,11 +21,11 @@ The analysis of the election show that:
   - Diana DeGette
   - Raymon Anthony Doane 
 - The Candidate results were:
-  -Candidate Stockham received 23% of the vote and 85,213 number of votes. 
-  -Candidate DeGette received 73.8% of the vote and 272,892 number of votes.
-  -Candidate Doane received 3.1% of the vote and 11,606 number of votes. 
+  - Candidate Stockham received 23% of the vote and 85,213 number of votes. 
+  - Candidate DeGette received 73.8% of the vote and 272,892 number of votes.
+  - Candidate Doane received 3.1% of the vote and 11,606 number of votes. 
 - The winner of the election was:
-  -Diana DeGette who received 73.8% of the vote and 272,892 number of votes. 
+  - Diana DeGette who received 73.8% of the vote and 272,892 number of votes. 
   
   ## Challenge Overivew
   
