@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Project Overview 
+## Overview of Election Audit 
 A Colorado Board of Elections employee gave the taks to complete an election audit of a recent local congreessional election. 
 
 1. Calculate the total number of votes cast.
@@ -13,7 +13,7 @@ A Colorado Board of Elections employee gave the taks to complete an election aud
 - Data Source: election_results.csv
 -Software: Python 3.7.6, Visual Studio Code 
 
-## Summary
+## Election Audit Results
 The analysis of the election show that:
 - There were 396,711 votes
 - The Candidates were:
@@ -29,6 +29,6 @@ The analysis of the election show that:
 - The largest county was Denver 
   - Vote Count: 306, 055
   - Percentage: 82.8% 
-  ## Challenge Overivew
-  
-  ## Challenge Summary 
+
+  ## Election Audit Summary 
+This code can be used for elections in other locations by using the code in a new poll with the cvs files named the same. Another option would be to updatre the code that references the loaded files to the current file name wanted along with the name the user would like for the text output. 
