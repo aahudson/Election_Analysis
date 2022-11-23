@@ -26,7 +26,9 @@ The analysis of the election show that:
   - Candidate Doane received 3.1% of the vote and 11,606 number of votes. 
 - The winner of the election was:
   - Diana DeGette who received 73.8% of the vote and 272,892 number of votes. 
-  
+- The largest county was Denver 
+  - Vote Count: 306, 055
+  - Percentage: 82.8% 
   ## Challenge Overivew
   
   ## Challenge Summary 
